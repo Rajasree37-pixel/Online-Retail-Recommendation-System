@@ -1,0 +1,10 @@
+# Ignore large data files
+data/
+
+# Python specific
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+venv/
