@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore large data files
 data/
 
@@ -7,4 +8,15 @@ __pycache__/
 
 # Environment files
 .env
+=======
+# Ignore large data files
+data/
+
+# Python specific
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+>>>>>>> ba92ca0deda279baa78a8c0f651f0c444fa57e7e
 venv/
